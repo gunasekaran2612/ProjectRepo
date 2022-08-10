@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="116822" started-at="2022-08-03T02:32:48Z" finished-at="2022-08-03T02:34:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="116822" started-at="2022-08-03T02:32:48Z" finished-at="2022-08-03T02:34:45Z">
+      <class name="seleniumDemo.Example">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:seleniumDemo.Example@a38d7a3]" name="setUp" is-config="true" duration-ms="90504" started-at="2022-08-03T02:32:48Z" finished-at="2022-08-03T02:34:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:seleniumDemo.Example@a38d7a3]" name="startBrowser" duration-ms="22021" started-at="2022-08-03T02:34:19Z" finished-at="2022-08-03T02:34:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:seleniumDemo.Example@a38d7a3]" name="tearDown" is-config="true" duration-ms="3741" started-at="2022-08-03T02:34:41Z" finished-at="2022-08-03T02:34:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- seleniumDemo.Example -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
